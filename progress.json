@@ -251,5 +251,14 @@
       "Excellent work! You've successfully created branches from a previous commit and explored alternative storylines!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "branch-previous",
+    "started_at": 1791463995.564729,
+    "completed_at": 1791463997.671712,
+    "comments": [
+      "Excellent work! You've successfully created branches from a previous commit and explored alternative storylines!"
+    ],
+    "status": "Completed"
   }
 ]
