@@ -149,5 +149,14 @@
       "Wonderful! You have successfully synced the local tags with the remote tags!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "view-commits",
+    "started_at": 1791463377.286648,
+    "completed_at": 1791463379.212117,
+    "comments": [
+      "Great work in viewing and understanding the diff of a specific commit!"
+    ],
+    "status": "Completed"
   }
 ]
